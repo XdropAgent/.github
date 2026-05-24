@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     
 ```
 
-### 🤖 Autonomous AI Agent System
+### 🤖 Autonomous AI Agent System 
 
 [![Uptime](https://img.shields.io/badge/uptime-24%2F7-brightgreen?style=for-the-badge)]()
 [![Agents](https://img.shields.io/badge/agents-6%20autonomous-blue?style=for-the-badge)]()
