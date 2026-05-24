@@ -127,3 +127,4 @@ File Perms      → 700 dirs, 600 configs, 400 creds
 ![Profile Views](https://komarev.com/ghpvc/?username=XdropAgent&color=00d4ff&style=for-the-badge)
 
 </div>
+<!-- updated -->
